@@ -103,30 +103,30 @@
         .custom_image_size {
             width: 250px !important;
         }
-	
-		
-		
-		
-		
-		
-		
+
+
+
+
+
+
+
 		.wa_results_block.euromillions .number.special {
     background: #e5013b !important;
     color: white !important;
 }
-		
-		
-		
-		
+
+
+
+
 		.wa_results_block.euromillions .number.special .tag {
     border: 1px solid #e5013b !important;
     color: #e5013b !important;
 }
-		
-		
-		
-		
-		
+
+
+
+
+
 		/*.content.brand_bg_primary {
             background: #1426ad !important;
             color: white;
@@ -137,7 +137,7 @@
         span.line_element {
             background: linear-gradient(180deg,transparent 45%,white 0,white 54%,transparent 0) !important;
         }
-		
+
 		  .promo_area {
             border-top-color: #e5013b !important;
         }
@@ -192,7 +192,7 @@
 
     <script type="text/javascript" src="www.cdn-national-lottery.co.uk/assets/main.head-f2a77977e4e55890a175e4c30217eb40.js" ></script>
 
-    <script type="application/ld+json"> {"@context":"http://schema.org","@type":"Organization","name":"Tiempos JPS","url":"https://www.tiemposjps.com","brand":"Tiempos JPS","logo":"https://www.national-lottery.co.uk/assets/wolff/logo-347efc2c6f2b1cdf12a60f8e16bf9cbd.svg","legalName":"Tiempos JPS","email":"help@national-lottery.co.uk","address":{"@type":"PostalAddress","addressLocality":"Costa Rica","postalCode":"11014","addressCountry":"CR"},"sameAs":["https://www.facebook.com/tiemposjps.com","https://twitter.com/tiemposjps","https://instagram.com/tiemposjps/","https://www.youtube.com/user/tiemposjps"],"contactPoint":{"@type":"ContactPoint","telephone":"+506 63130282","contactType":"customer service"}}</script>
+    <script type="application/ld+json"> {"@context":"http://schema.org","@type":"Organization","name":"Tiempos Tica","url":"https://www.tiemposjps.com","brand":"Tiempos Tica","logo":"https://www.national-lottery.co.uk/assets/wolff/logo-347efc2c6f2b1cdf12a60f8e16bf9cbd.svg","legalName":"Tiempos Tica","email":"help@national-lottery.co.uk","address":{"@type":"PostalAddress","addressLocality":"Costa Rica","postalCode":"11014","addressCountry":"CR"},"sameAs":["https://www.facebook.com/tiemposjps.com","https://twitter.com/tiemposjps","https://instagram.com/tiemposjps/","https://www.youtube.com/user/tiemposjps"],"contactPoint":{"@type":"ContactPoint","telephone":"+506 63130282","contactType":"customer service"}}</script>
 
 
     <script src="../tags.tiqcdn.com/utag/camelot/main/prod/utag.sync.js" type="text/javascript"></script>
@@ -271,12 +271,12 @@
                                                 <a href="https://www.tiemposjps.com/" id="mobile_logo_link" tabindex="0" aria-label="Access home page" role="button">
 
 
-                                                    <img src="https://www.tiemposjps.com/assets/img/tiempos-nica.png" data-fallback="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-full-d0ca5c0c107f9807a5694ea840d6a6ab.png" id="desktop_logo" alt="Tiempos JPS" role="img" class="desktop_logo"/>
-                                                    <img src="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-d3be740b2a135c2bda2f2888ebac5bca.svg" data-fallback="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-e48dc7371ced760aa97d66de29eb9b2e.png" id="mobile_logo" alt="Tiempos JPS" role="img" class="mobile_logo"/>
+                                                    <img src="https://www.tiemposjps.com/assets/img/tiempos-nica.png" data-fallback="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-full-d0ca5c0c107f9807a5694ea840d6a6ab.png" id="desktop_logo" alt="Tiempos Tica" role="img" class="desktop_logo"/>
+                                                    <img src="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-d3be740b2a135c2bda2f2888ebac5bca.svg" data-fallback="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-e48dc7371ced760aa97d66de29eb9b2e.png" id="mobile_logo" alt="Tiempos Tica" role="img" class="mobile_logo"/>
 
                                                     <noscript>
-                                                        <img src="www.cdn-national-lottery.co.uk/assets/wolff/logo-full-d0ca5c0c107f9807a5694ea840d6a6ab.png" id="desktop_logo_nojs" class="nojs_logo desktop_logo" alt="Tiempos JPS"/>
-                                                        <img src="www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-e48dc7371ced760aa97d66de29eb9b2e.png" id="mobile_logo_nojs" class="nojs_logo mobile_logo" alt="Tiempos JPS"/>
+                                                        <img src="www.cdn-national-lottery.co.uk/assets/wolff/logo-full-d0ca5c0c107f9807a5694ea840d6a6ab.png" id="desktop_logo_nojs" class="nojs_logo desktop_logo" alt="Tiempos Tica"/>
+                                                        <img src="www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-e48dc7371ced760aa97d66de29eb9b2e.png" id="mobile_logo_nojs" class="nojs_logo mobile_logo" alt="Tiempos Tica"/>
                                                     </noscript>
 
                                                 </a>
@@ -298,12 +298,12 @@
                                         <a href="https://www.tiemposjps.com/" id="logo_link">
 
 
-                                            <img src="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-d3be740b2a135c2bda2f2888ebac5bca.svg" data-fallback="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-full-d0ca5c0c107f9807a5694ea840d6a6ab.png" id="desktop_logo" alt="Tiempos JPS" role="img" class="desktop_logo"/>
-                                            <img src="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-d3be740b2a135c2bda2f2888ebac5bca.svg" data-fallback="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-e48dc7371ced760aa97d66de29eb9b2e.png" id="mobile_logo" alt="Tiempos JPS" role="img" class="mobile_logo"/>
+                                            <img src="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-d3be740b2a135c2bda2f2888ebac5bca.svg" data-fallback="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-full-d0ca5c0c107f9807a5694ea840d6a6ab.png" id="desktop_logo" alt="Tiempos Tica" role="img" class="desktop_logo"/>
+                                            <img src="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-d3be740b2a135c2bda2f2888ebac5bca.svg" data-fallback="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-e48dc7371ced760aa97d66de29eb9b2e.png" id="mobile_logo" alt="Tiempos Tica" role="img" class="mobile_logo"/>
 
                                             <noscript>
-                                                <img src="www.cdn-national-lottery.co.uk/assets/wolff/logo-full-d0ca5c0c107f9807a5694ea840d6a6ab.png" id="desktop_logo_nojs" class="nojs_logo desktop_logo" alt="Tiempos JPS"/>
-                                                <img src="www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-e48dc7371ced760aa97d66de29eb9b2e.png" id="mobile_logo_nojs" class="nojs_logo mobile_logo" alt="Tiempos JPS"/>
+                                                <img src="www.cdn-national-lottery.co.uk/assets/wolff/logo-full-d0ca5c0c107f9807a5694ea840d6a6ab.png" id="desktop_logo_nojs" class="nojs_logo desktop_logo" alt="Tiempos Tica"/>
+                                                <img src="www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-e48dc7371ced760aa97d66de29eb9b2e.png" id="mobile_logo_nojs" class="nojs_logo mobile_logo" alt="Tiempos Tica"/>
                                             </noscript>
 
                                         </a>
@@ -576,7 +576,7 @@
                                                     <li class="number main">3</li>
                                                     <li class="number main">0</li>
                                                    <li class="number special">
-                                                        
+
                                                         <span class="tag" aria-hidden="true">★</span>
                        R                             </li>
 
@@ -615,7 +615,7 @@
                                                             <h2 class="game_brand">
 
 
-                                                                <!--<span class="no_brand_effect" role="text">TIEMPOS JPS</span> -->
+                                                                <!--<span class="no_brand_effect" role="text">Tiempos Tica</span> -->
 
                                                                 <span class="game_brand_text">Tica</span>
                                                             </h2>
@@ -632,7 +632,7 @@
 
                                                             <p class="brand_text_effect proposition_led match_three_balls">
 
-                                                                <span class="game_brand_image"><img src="https://www.tiemposjps.com/assets/img/tiemposjps-promo.jpg?v2" alt="jugar tiempos jps" aria-hidden="true" style="width: 250px;"></span>
+                                                                <span class="game_brand_image"><img src="https://www.tiemposjps.com/assets/img/tiemposjps-promo.jpg?v2" alt="jugar Tiempos Tica" aria-hidden="true" style="width: 250px;"></span>
 
 
                                                                 <span class="no_brand_effect" role="text">TE PAGA</span>
@@ -726,8 +726,8 @@
                                                         R
                                                         <span class="tag" aria-hidden="true">★</span>
                                                     </li>-->
-													
-													
+
+
                                                 </ul>
 
                                             </div>
@@ -756,7 +756,7 @@
                                                             <h2 class="game_brand">
 
 
-                                                                <!--<span class="no_brand_effect" role="text">TIEMPOS JPS</span> -->
+                                                                <!--<span class="no_brand_effect" role="text">Tiempos Tica</span> -->
 
                                                                 <span class="game_brand_text">Tica</span>
                                                             </h2>
@@ -894,7 +894,7 @@
                                                             <h2 class="game_brand">
 
 
-                                                                <!--<span class="no_brand_effect" role="text">TIEMPOS JPS</span> -->
+                                                                <!--<span class="no_brand_effect" role="text">Tiempos Tica</span> -->
 
                                                                 <span class="game_brand_text">Tica</span>
                                                             </h2>
@@ -978,7 +978,7 @@
 
                                                         <h2 class="cuk_d_h56 margin_bottom_small">
                                     <span class="block" role="text">
-                                      <span>Gana en grande <br /><span class="last_line">con los Tiempos JPS</span></span>
+                                      <span>Gana en grande <br /><span class="last_line">con los Tiempos Tica</span></span>
                                     </span>
                                                         </h2>
 
@@ -1107,12 +1107,14 @@
                                     <div class="grid_8">
                                         <div class="inner clr">
 
-                                            <h2 class="margin_bottom_small cuk_d_h34 cuk_m_h25"><a>TIEMPOS JPS<sup>&reg;</sup></a></h2>
+                                            <h2 class="margin_bottom_small cuk_d_h34 cuk_m_h25"><a>Tiempos Tica<sup>&reg;</sup></a></h2>
 
                                             <!-- <p class="margin_bottom_medium cuk_d_b20 cuk_m_h25">You can set you own <a href="/my-account/details-and-settings/spend-and-play-settings?icid=bsp:na:tx">spend and play limits</a>, if you like.  We're all about being fun and <a 	href="/responsible-play?icid=bsp:na:tx">responsible</a>.</p> -->
 
                                             <p class="margin_bottom_medium cuk_d_b20 cuk_m_h25">
-                                                Tiempos JPS te trae los resultados de la Tiempos Tica de hoy y los números ganadores de la loto tica. ¡Felicidades a los ganadores!</p>
+                                                Tiempos Tica te trae los resultados de los Tiempos de la JPS de hoy y los números ganadores de la loto y nuevos tiempos reventados.
+                                                <br>
+                                                ¡Felicidades a los ganadores!</p>
 
                                         </div>
                                     </div>
@@ -1222,7 +1224,7 @@
                                                 <li>
                                                     <strong>Results</strong>
                                                     <br />
-                                                    Although every care is taken to ensure the accuracy of information containing National Lottery results, Camelot UK Lotteries Limited cannot take any responsibility for any errors or omissions. Prize winning and all aspects of Tiempos JPS games are subject to Games Rules and Procedures.
+                                                    Although every care is taken to ensure the accuracy of information containing National Lottery results, Camelot UK Lotteries Limited cannot take any responsibility for any errors or omissions. Prize winning and all aspects of Tiempos Tica games are subject to Games Rules and Procedures.
                                                 </li>
                                                 <li>
                                                     <strong>Number of winners each week</strong>
@@ -1233,7 +1235,7 @@
                                                 <li>
                                                     <strong>National Lottery Projects</strong>
                                                     <br />
-                                                    Since Tiempos JPS began in 1994, over 670,000 Good Causes have been supported with &pound;47 billion raised by players of Tiempos JPS (project figures sourced from the Department for Digital Culture, Media &amp; Sport &ndash; May 2023). <br><br />
+                                                    Since Tiempos Tica began in 1994, over 670,000 Good Causes have been supported with &pound;47 billion raised by players of Tiempos Tica (project figures sourced from the Department for Digital Culture, Media &amp; Sport &ndash; May 2023). <br><br />
                                                     <p>Over &pound;30&nbsp;million raised weekly is an average based on 1st April 2022 &ndash; 31st March 2023.</p>
                                                 </li>
 
@@ -1269,8 +1271,8 @@
                                     <div class="grid_12">
                                         <div class="inner clr">
 
-                                            <img src="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-d3be740b2a135c2bda2f2888ebac5bca.svg" alt="Tiempos JPS" class="custom-mini-logo">
-                                            <p class="cuk_d_b12 cuk_m_b10" role="note">Los juegos de Tiempos JPS en este sitio web son promovidos por la Sociedad de Loterías Limitada bajo licencia.
+                                            <img src="https://www.cdn-national-lottery.co.uk/assets/wolff/logo-icon-d3be740b2a135c2bda2f2888ebac5bca.svg" alt="Tiempos Tica" class="custom-mini-logo">
+                                            <p class="cuk_d_b12 cuk_m_b10" role="note">Los juegos de Tiempos Tica en este sitio web son promovidos por la Sociedad de Loterías Limitada bajo licencia.
                                             </p>
 
                                         </div>
