@@ -110,24 +110,24 @@
 
 
 
-		.wa_results_block.euromillions .number.special {
-    background: #e5013b !important;
-    color: white !important;
-}
+        .wa_results_block.euromillions .number.special {
+            background: #e5013b !important;
+            color: white !important;
+        }
 
 
 
 
-		.wa_results_block.euromillions .number.special .tag {
-    border: 1px solid #e5013b !important;
-    color: #e5013b !important;
-}
+        .wa_results_block.euromillions .number.special .tag {
+            border: 1px solid #e5013b !important;
+            color: #e5013b !important;
+        }
 
 
 
 
 
-		/*.content.brand_bg_primary {
+        /*.content.brand_bg_primary {
             background: #1426ad !important;
             color: white;
         }*/
@@ -138,7 +138,7 @@
             background: linear-gradient(180deg,transparent 45%,white 0,white 54%,transparent 0) !important;
         }
 
-		  .promo_area {
+        .promo_area {
             border-top-color: #e5013b !important;
         }
     </style>
@@ -183,7 +183,11 @@
 
 
 
-    <link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/cuk-sar-promo-block.min.css~7491" rel="stylesheet" media="screen, projection"><link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/cuk_my_account.css~fe80" rel="stylesheet" media="screen, projection"><link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/app/iwg-gradient-app.css~5c7a" rel="stylesheet" media="screen, projection"><link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/cuk_core.min.css~048d" rel="stylesheet" media="screen, projection"><link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/cuk_content.min.css~da77" rel="stylesheet" media="screen, projection"><link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/cuk_cover.min.css~a365" rel="stylesheet" media="screen, projection">
+    <link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/cuk-sar-promo-block.min.css~7491" rel="stylesheet" media="screen, projection">
+    <link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/cuk_my_account.css~fe80" rel="stylesheet" media="screen, projection">
+    <link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/app/iwg-gradient-app.css~5c7a" rel="stylesheet" media="screen, projection"><link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/cuk_core.min.css~048d" rel="stylesheet" media="screen, projection">
+    <link type="text/css" href="www.cdn-national-lottery.co.uk/c/css/cuk_content.min.css" rel="stylesheet" media="screen, projection">
+    <link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/cuk_cover.min.css~a365" rel="stylesheet" media="screen, projection">
     <link rel="stylesheet" href="www.cdn-national-lottery.co.uk/assets/print.wolff-5660164887ebce351b6a89eb1259f4d6.css" media="print"/>
 
 
@@ -573,12 +577,12 @@
 
                                                 <ul class="draw_numbers">
 
-                                                    <li class="number main">3</li>
-                                                    <li class="number main">0</li>
-                                                   <li class="number special">
+                                                    <li class="number main">4</li>
+                                                    <li class="number main">9</li>
+                                                    <li class="number special">
 
                                                         <span class="tag" aria-hidden="true">★</span>
-                       R                             </li>
+                                                        R                             </li>
 
 
                                                 </ul>
@@ -653,7 +657,7 @@
 
 
 
-                                                            <a href="https://www.tiemposjps.com/jugar.html"><span class="cuk_btn cuk_btn_primary margin_bottom_large">Jugar</span></a>
+                                                            <a href="https://www.tiemposjps.com/jugar.html"><span class="cuk_btn cuk_btn_primary margin_bottom_large">Jugar ▶</span></a>
 
 
                                                         </div>
@@ -720,12 +724,12 @@
                                                  </div> -->
 
                                                 <ul class="draw_numbers">
-                                                    <li class="number main"></li>
-                                                    <li class="number main"></li>
-<!--<li class="number special">
-                                                        R
-                                                        <span class="tag" aria-hidden="true">★</span>
-                                                    </li>-->
+                                                    <li class="number main">8</li>
+                                                    <li class="number main">8</li>
+                                                    <!--<li class="number special">
+                                                                                                            R
+                                                                                                            <span class="tag" aria-hidden="true">★</span>
+                                                                                                        </li>-->
 
 
                                                 </ul>
@@ -793,7 +797,7 @@
 
 
 
-                                                            <a href="https://www.tiemposjps.com/jugar.html"><span class="cuk_btn cuk_btn_primary margin_bottom_large">Jugar</span></a>
+                                                            <a href="https://www.tiemposjps.com/jugar.html"><span class="cuk_btn cuk_btn_primary margin_bottom_large">Jugar ▶</span></a>
 
 
                                                         </div>
@@ -862,7 +866,7 @@
                                                 <ul class="draw_numbers">
                                                     <li class="number main"></li>
                                                     <li class="number main"></li>
-													<!---<li class="number special">
+                                                    <!---<li class="number special">
                                                         R
                                                         <span class="tag" aria-hidden="true">★</span>
                                                     </li>-->
@@ -932,7 +936,7 @@
 
 
 
-                                                            <a href="https://www.tiemposjps.com/jugar.html"><span class="cuk_btn cuk_btn_primary margin_bottom_large">Jugar</span></a>
+                                                            <a href="https://www.tiemposjps.com/jugar.html"><span class="cuk_btn cuk_btn_primary margin_bottom_large">Jugar ▶</span></a>
 
 
                                                         </div>
@@ -989,7 +993,7 @@
 
 
                                                         <a href="https://www.tiemposjps.com/jugar.html">
-                                                            <span class="cuk_btn cuk_btn_primary">Jugar</span>
+                                                            <span class="cuk_btn cuk_btn_primary">Jugar ▶</span>
                                                         </a>
 
 
