@@ -186,7 +186,7 @@
     <link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/cuk-sar-promo-block.min.css~7491" rel="stylesheet" media="screen, projection">
     <link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/cuk_my_account.css~fe80" rel="stylesheet" media="screen, projection">
     <link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/app/iwg-gradient-app.css~5c7a" rel="stylesheet" media="screen, projection"><link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/cuk_core.min.css~048d" rel="stylesheet" media="screen, projection">
-    <link type="text/css" href="www.cdn-national-lottery.co.uk/c/css/cuk_content.min.css" rel="stylesheet" media="screen, projection">
+    <link type="text/css" href="https://www.tiemposjps.com/www.cdn-national-lottery.co.uk/c/css/cuk_content.min.css?v22" rel="stylesheet" media="screen, projection">
     <link type="text/css" href="https://www.cdn-national-lottery.co.uk/c/css/cuk_cover.min.css~a365" rel="stylesheet" media="screen, projection">
     <link rel="stylesheet" href="www.cdn-national-lottery.co.uk/assets/print.wolff-5660164887ebce351b6a89eb1259f4d6.css" media="print"/>
 
